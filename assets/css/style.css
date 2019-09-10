@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+body .container .owner .tagline .avatar {
+  background-color: #666;
+  display: block;
+  margin: -19px 10px 0 0;
+  width: 60px;
+  float: left;
+}
