@@ -1,9 +1,9 @@
 # PERSONAL PROFILE:
 ##	General Description:
- <p &emsp; >&mdash; I look like the love child of a Hobbit with gigantism that shagged a Wookie after a big night out at The Green Dragon. Born in the early 70s, I have done over 100 jobs in my life, lived in almost as many different accommodation arrangements ( not all of them classify as houses, I even lived in a hallway once ), and I get on the internet on a regular basis for cathartic therapy ... given the option, I would leave this planet, terraform another, and quarantine it from religion, capitalism, and democracy ( amongst other insanities ).</p>
+ &emsp;&mdash;I look like the love child of a Hobbit with gigantism that shagged a Wookie after a big night out at The Green Dragon. Born in the early 70s, I have done over 100 jobs in my life, lived in almost as many different accommodation arrangements ( not all of them classify as houses, I even lived in a hallway once ), and I get on the internet on a regular basis for cathartic therapy ... given the option, I would leave this planet, terraform another, and quarantine it from religion, capitalism, and democracy ( amongst other insanities ).
 
 ##	Interest in I.T.:
- &mdash; I have a head for ideas, invention, analysis, strategies, systems, and other areas of problem solving &mdash; so for me, Information Technology is a pathway towards the implementation of at least the logical aspects of those ideas.
+ &emsp;&mdash;I have a head for ideas, invention, analysis, strategies, systems, and other areas of problem solving &mdash; so for me, Information Technology is a pathway towards the implementation of at least the logical aspects of those ideas.
  
 ###		ORIGINATED:
  &mdash; My interest in computers and electronics led to interest in I.T., and which dates back to the 1980s when some of the first personal computers were becomming more common at home. We had an Apple IIe, but other friends had everything from the zx81 to the Amstrad, Atari, Amiga, Apple III, Vic20, Commodore64, and various others. We used to get snippets of code from magazines, and experiment with what we could do. Also my grandfather on my dad's side was into electronics, and my father had various old valve radios, stereos, amplifiers, speakers etc., and I had plenty of opportunity as a young kid to pull these things apart.
