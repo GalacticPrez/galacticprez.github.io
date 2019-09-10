@@ -5,7 +5,9 @@
 
 body .container .owner .avatar {
   background-color: #666;
+  border: 1px solid black;
   display: block;
+  padding: 4px;
   margin: -19px 10px 0 0;
   width: 60px;
   float: left;
