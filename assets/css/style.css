@@ -21,13 +21,10 @@ body .owner img {
 }
 
 p.tagline {
-  padding-top: 50px;
-  padding-right: 50px;
-  padding-bottom: 50px;
-  padding-left: 50px;
+  padding-top: 80px;
+  padding-right: 80px;
+  padding-bottom: 80px;
+  padding-left: 80px;
   color: #fff;
   font-size: 17px;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-left: 80px;
 }
