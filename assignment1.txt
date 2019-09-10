@@ -1,8 +1,22 @@
 Assignment 1 planning:
 
-
+INTEREST IN I.T.
+ -- I have a head for ideas, invention, analysis, strategies, systems, and other areas of problem solving, so for me, Information Technology is a pathway towards the implementation of at least the logical aspects of those ideas.
  
+ORIGINATED:
+ -- My interest in computers and electronics led to interest in I.T., and which dates back to the 1980s when some of the first personal computers were becomming more common at home. We had an Apple IIe, but other friends had everything from the zx81 to the Amstrad, Atari, Amiga, Apple III, Vic20, Commodore64, and various others. We used to get snippets of code from magazines, and experiment with what we could do. Also my grandfather on my dad's side was into electronics, and my father had various old valve radios, stereos, amplifiers, speakers etc., and I had plenty of opportunity as a young kid to pull these things apart.
 
+INSPIRATION:
+ -- my current passion for I.T. came out of a completely separate area of interest, in ecological and social justice and sustainability, though it also stems from my interest in films, games, and other fields. A good friend of mine ( whom is doing his PhD ) actually inspired me in the ecological areas, as did many others ( such as Carl Sagan ), and so I see I.T. as a means to developing systems that change how civilisation functions at a fundamental level.
+
+EXPERIENCE:
+ -- I have previously done about 20 years combined formal and informal tertiary level studies and research, across 4 universities, plus TAFE, other private institutions, books, and online resources. Those past studies include electronic engineering, computer science, mathematics, and other sciences. I have also worked in the entertainment and events industry as an audiovisual technician, I am currently working on a feature film ( doing sound ), and I have also been an account/relationship/sales manager in technical sales of 3D CAD/CAM/CAE & PDM software ( www.solidworks.com ), as well as Microsoft Sharepoint metadata integration tools. On top of this, I have been a pay TV / telephony data cabler, I've done some electronic soldering ( repairs ), an I.T. consultant for small business, a private tech support guy, and I've also built, installed, and maintained small business computers and networks. Much of this experience was a long time ago, so a great deal of it is outdated ( obsolete ) technology now.
+
+REASONS FOR RMIT:
+ -- I am simultaneously enrolled at LaTrobe University, doing a similar yet different course, and much of this is revision for me, but also updating skills, and I needed studies online to complement what I am doing at LTU, so OUA led me to RMIT.
+
+EXPECTATIONS:
+ -- my expections in this course are to fill in gaps in my knowledge, and learn a different perspective on similar subjects versus my LTU subjects ( in order to get a more complete picture of some of the more fundamental aspects of computer programming, system design, and network/system administration, but I am also looking to supplment that other course with completely different subjects not offered. In effect, I am using RMIT as a means to overload my course commitments, without requiring institutional approval, as I require a great deal of control over my studies, and more so than what is typically offered.
  
 IDEAL JOB:
  -- there's no such thing as an advertisement for my ideal job, as it doesn't exist as a job, it exists as a self-employment arrangement. I really have no desire to work for anyone else, having done over 100 jobs in my life, and so if I am doing work for others, I want it to be a client-contractor relationship, where I can define the terms on which a job is accepted or rejected ... a privilege employees don't get to express.
@@ -10,6 +24,54 @@ IDEAL JOB:
  
 MBIT & SIMILAR CRAP:
  -- I have no interest in the pulp philosophy of the business world, and trying to categorise people by such things as MBIT is as boring and useless as it is inaccurate, I wouldn't waste my time with it unless someone was paying me a hell of a lot of money. I've done IQ tests ( keep finding fundamental flaws in them ), and personality tests of all kinds, and quite frankly I think every last one of them is utterly useless trash. I would not take any such things into consideration when forming a team, as I trust my own instincts and powers of deduction far better. Instead I would simply interview people with an interest in joining a team, determine for myself where I think the limits of my trust should be with each individual, and then decide as to what risks I am willing to take with each individual, adjusting my views over time as more information comes to light ... and no MBIT is ever going to compare to that.
+ 
+ -- Learning style test:
+	http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
+	What's Your Learning Style? The Results
+
+Your Scores:
+    Auditory:	45%
+    Visual:		35%
+    Tactile:	20%
+
+	You are an Auditory learner! Check out the information below, or view all of the learning styles.
+
+	Auditory
+		If you are an auditory learner, you learn by hearing and listening. You understand and remember things you have heard. You store information by the way it sounds, and you have an easier time understanding spoken instructions than written ones. You often learn by reading out loud because you have to hear it or speak it in order to know it.
+		
+		As an auditory learner, you probably hum or talk to yourself or others if you become bored. People may think you are not paying attention, even though you may be hearing and understanding everything being said.
+		
+		Here are some things that auditory learners like you can do to learn better.
+			Sit where you can hear.
+			Have your hearing checked on a regular basis.
+			Use flashcards to learn new words; read them out loud.
+			Read stories, assignments, or directions out loud.
+			Record yourself spelling words and then listen to the recording.
+			Have test questions read to you out loud.
+			Study new material by reading it out loud.
+
+	Remember that you need to hear things, not just see things, in order to learn well.
+
+-- IQ Test 
+	https://iqtest.com/take-the-test/
+	Fucking wanted money ...
+	
+	
+ -- MBIT Results:
+	Personality type:
+		“The Protagonist” (ENFJ-A)
+	Individual traits:
+		Extraverted – 63%,
+		Intuitive – 85%,
+		Feeling – 64%,
+		Judging – 58%,
+		Assertive – 74%
+Role:
+	Diplomat
+Strategy:
+	People Mastery
+
+		Link to your profile: https://www.16personalities.com/profiles/ec14e754936f1
  
  PROJECT IDEA:
   
