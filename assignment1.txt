@@ -1,7 +1,7 @@
 Assignment 1 planning:
 
 INTEREST IN I.T.
- -- I have a head for ideas, invention, analysis, strategies, systems, and other areas of problem solving, so for me, Information Technology is a pathway towards the implementation of at least the logical aspects of those ideas.
+<p>I have a head for ideas, invention, analysis, strategies, systems, and other areas of problem solving, so for me, Information Technology is a pathway towards the implementation of at least the logical aspects of those ideas.<br/>Having said that, I should add that the internet serves as a forum for cathartic therapy, which I use on a regular basis to vent and rage at the frustration which results from living on this planet. At some point I would like to figure out how to get off this planet, at which point I will find a new one, terraform it if necessary, and quarantine it from religion, capitalism, and democracy.</p>
  
 ORIGINATED:
  -- My interest in computers and electronics led to interest in I.T., and which dates back to the 1980s when some of the first personal computers were becomming more common at home. We had an Apple IIe, but other friends had everything from the zx81 to the Amstrad, Atari, Amiga, Apple III, Vic20, Commodore64, and various others. We used to get snippets of code from magazines, and experiment with what we could do. Also my grandfather on my dad's side was into electronics, and my father had various old valve radios, stereos, amplifiers, speakers etc., and I had plenty of opportunity as a young kid to pull these things apart.
