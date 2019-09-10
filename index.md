@@ -1,12 +1,12 @@
 # PERSONAL PROFILE:
-##	General Description:
- &emsp;&mdash;I look like the love child of a Hobbit with gigantism that shagged a Wookie after a big night out at The Green Dragon. Born in the early 70s, I have done over 100 jobs in my life, lived in almost as many different accommodation arrangements ( not all of them classify as houses, I even lived in a hallway once ), and I get on the internet on a regular basis for cathartic therapy ... given the option, I would leave this planet, terraform another, and quarantine it from religion, capitalism, and democracy ( amongst other insanities ).
+##&emsp;General Description:
+ &emsp;&mdash; I look like the love child of a Hobbit with gigantism that shagged a Wookie after a big night out at The Green Dragon. Born in the early 70s, I have done over 100 jobs in my life, lived in almost as many different accommodation arrangements ( not all of them classify as houses, I even lived in a hallway once ), and I get on the internet on a regular basis for cathartic therapy ... given the option, I would leave this planet, terraform another, and quarantine it from religion, capitalism, and democracy ( amongst other insanities ).
 
-##	Interest in I.T.:
- &emsp;&mdash;I have a head for ideas, invention, analysis, strategies, systems, and other areas of problem solving &mdash; so for me, Information Technology is a pathway towards the implementation of at least the logical aspects of those ideas.
+##&emsp;Interest in I.T.:
+ &emsp;&mdash; I have a head for ideas, invention, analysis, strategies, systems, and other areas of problem solving &mdash; so for me, Information Technology is a pathway towards the implementation of at least the logical aspects of those ideas.
  
-###		ORIGINATED:
- &mdash; My interest in computers and electronics led to interest in I.T., and which dates back to the 1980s when some of the first personal computers were becomming more common at home. We had an Apple IIe, but other friends had everything from the zx81 to the Amstrad, Atari, Amiga, Apple III, Vic20, Commodore64, and various others. We used to get snippets of code from magazines, and experiment with what we could do. Also my grandfather on my dad's side was into electronics, and my father had various old valve radios, stereos, amplifiers, speakers etc., and I had plenty of opportunity as a young kid to pull these things apart.
+###&emsp;&emsp;ORIGINATED:
+ &emsp;&emsp;&mdash; My interest in computers and electronics led to interest in I.T., and which dates back to the 1980s when some of the first personal computers were becomming more common at home. We had an Apple IIe, but other friends had everything from the zx81 to the Amstrad, Atari, Amiga, Apple III, Vic20, Commodore64, and various others. We used to get snippets of code from magazines, and experiment with what we could do. Also my grandfather on my dad's side was into electronics, and my father had various old valve radios, stereos, amplifiers, speakers etc., and I had plenty of opportunity as a young kid to pull these things apart.
 
 ###		INSPIRATION:
  &mdash; my current passion for I.T. came out of a completely separate area of interest, in ecological and social justice and sustainability, though it also stems from my interest in films, games, and other fields. A good friend of mine ( whom is doing his PhD ) actually inspired me in the ecological areas, as did many others ( such as Carl Sagan ), and so I see I.T. as a means to developing systems that change how civilisation functions at a fundamental level.
