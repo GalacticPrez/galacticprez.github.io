@@ -1747,7 +1747,6 @@ readers do not read off random characters that represent icons */
   content: "\f50c"; }
 
 .fa-galactic-senate:before {
-	font-size: 1.5em;
   content: "\f50d"; }
 
 .fa-gamepad:before {
